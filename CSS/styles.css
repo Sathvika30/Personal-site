@@ -9,6 +9,7 @@ body {
   text-align: center;
   color: #40514E;
   line-height: 1.5;
+  font-size: 1.5rem;
 }
 
 P{
@@ -32,15 +33,15 @@ P{
 }
 
 .mypic1 {
-  width: 75px;
-  height: 75px;
+  width: 150px;
+  height: 150px;
   float: left;
   margin-right: 30px;
 }
 
 .mypic2 {
-  width: 75px;
-  height: 75px;
+  width: 150px;
+  height: 150px;
   float: right;
   margin-right: 30px;
 }
@@ -112,13 +113,13 @@ a:hover{
 
 .cloud2 {
   position: absolute;
-  left: 300px;
-  top: 500px;
+  left: 25%;
+  top: 70%;
 }
 
 .cloud1 {
-  position: relative;
-  left: 400px;
+  position: absolute;
+  right: 15%;
 }
 
 
