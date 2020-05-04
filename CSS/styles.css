@@ -1,0 +1,145 @@
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+body {
+  margin: 0 auto;
+  text-align: center;
+  color: #40514E;
+  line-height: 1.5;
+}
+
+P{
+  font-family: 'Acme', sans-serif;
+}
+
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+}
+
+.middle-container {
+  background-color: white;
+}
+
+.mypic {
+  width: 150px;
+  height: 150px;
+  margin-top: 30px;
+}
+
+.mypic1 {
+  width: 75px;
+  height: 75px;
+  float: left;
+  margin-right: 30px;
+}
+
+.mypic2 {
+  width: 75px;
+  height: 75px;
+  float: right;
+  margin-right: 30px;
+}
+
+hr{
+  border-style: dotted none none;
+  border-top-color: #EAF6F6;
+  border-width: 5px;
+  width: 5%;
+}
+
+.desc {
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+.skills {
+  background-color: white;
+}
+
+.contact-me {
+  background-color: white;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin:20px auto 0 auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #EAF6F6;
+  line-height: 2;
+
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Merienda One', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Comfortaa', cursive;
+  padding-top: 30px;
+}
+
+h3 {
+  color: #11999E;
+  margin:0;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+  padding-bottom: 30px;
+}
+
+a {
+  color: #11999E;
+  font-size: 2rem;
+  margin: 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 300px;
+  top: 500px;
+}
+
+.cloud1 {
+  position: relative;
+  left: 400px;
+}
+
+
+.myButton {
+	box-shadow:inset 0 10px 14px -7px #00ddff;
+	background-color:#66bfbf;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#eaf6f6;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+}
+.myButton:hover {
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
